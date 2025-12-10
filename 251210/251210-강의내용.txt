@@ -1,0 +1,57 @@
+박세진 강사
+
+2009년 개발 및 기획
+- KT&G
+- CJ
+- DW
+
+Python 프로그래밍 언어
+- 5점 : 3점 ~ 2.8점
+- 진입장벽 // 다양한 방면
+- AI > 데이터 수집 > 머신러닝 / 딥러닝
+
+1. 로컬 컴퓨터 > cmd > 터미널
+python >>
+
+2. python
+프로그래밍 언어
+
+3. python > 버전확인
+
+4. A버전 > B버전
+
+5. python > 문법 > 코드작성
+> 메모장?
+
+> Web Editor : 코드를 작성, 편집 => Atom, Brackets, VS code, Cursor AI
+> Extensions // VS code = Visual Studio Code => MS
+
+> IDE : Integrated Development Environment => 통합개발환경
+> 모든 프로그래밍 언어
+> Compiler // Pycharm
+
+6. Anaconda > 
+> 이메일 정보!!!
+
+7. VS code > 루트폴더!!!
+
+root folder
+> 경로
+
+GUI
+CLI
+
+그날 그날 수업 > 이해 & 소화
+> 학습방법 : 2시간 : 주말 x
+> 1 / 1 + 1
+
+
+
+
+
+
+
+
+
+
+
