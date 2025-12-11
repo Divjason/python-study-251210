@@ -1,0 +1,10 @@
+프로그래밍 언어
+프로그램
+
+> VSCODE
+> root folder
+
+document > python-study
+
+alt + shitf + down : 복제
+ctrl + F5 : run & debug
